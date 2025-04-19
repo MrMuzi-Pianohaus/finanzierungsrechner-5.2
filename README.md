@@ -1,1 +1,3 @@
-# finanzierungsrechner-5.2
+# Finanzierungsrechner v5.2
+
+Zinskosten werden direkt in die Finanzierungsraten eingerechnet.
